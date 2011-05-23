@@ -1,0 +1,12 @@
+Eagle files for "Supermodified" Servos. 
+These are servos with full digital control. 
+Advantages:
+- 4096 positions / 360 degrees
+- Bus interfaces (I2C, RS485)
+- Velocity feedback
+- Continuous rotation
+- Current feedback
+
+
+http://letsmakerobots.com/node/18615
+http://www.01mech.com/supermodified
